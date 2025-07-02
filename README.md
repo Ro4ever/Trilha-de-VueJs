@@ -36,6 +36,11 @@ O projeto está dividido nas seguintes pastas:
   - `package.json`: Arquivo de dependências do frontend.
   - `src/`: Código-fonte do frontend.
 
+## Prints
+
+![Captura de tela 2025-07-02 194107](https://github.com/user-attachments/assets/168d869a-792a-4c7f-ba0d-d1cdc63049f6)
+![Captura de tela 2025-07-02 194200](https://github.com/user-attachments/assets/c9df7852-d327-431e-9776-a4a210df9f1d)
+
 ## Instalação
 
 ### Backend
@@ -91,8 +96,3 @@ O projeto está dividido nas seguintes pastas:
 3. Faça alterações e commit (`git commit -am 'Adiciona nova feature'`).
 4. Envie para a branch do repositório remoto (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
-
-## Prints
-
-![Captura de tela 2025-07-02 194107](https://github.com/user-attachments/assets/c42a041c-ec05-4a29-9c42-b596c7f42c06)
-![Captura de tela 2025-07-02 194200](https://github.com/user-attachments/assets/0762e996-99fb-440f-b8dd-3ae5b338b4b1)
